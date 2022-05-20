@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.frmCurrency.resources
